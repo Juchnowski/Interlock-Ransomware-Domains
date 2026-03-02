@@ -1,4 +1,6 @@
 [Adblock Plus]
+||donnellykilbakk.cc^ 
+||kolinhumercianali.org^
 ||medhurstwaelcci.net^ 
 ||ms-patch.com^ 
 ||mssecurity.net^ 
@@ -66,3 +68,4 @@
 ||yen-hansen-cartoon-aims.trycloudflare.com^ 
 ||liabilities.complications-discussing-temporal.trycloudflare.com^
 ||partyglacierhip.top^
+
