@@ -1,4 +1,6 @@
 [Adblock Plus]
+||nld360180.com^
+||nld360.com^
 ||donnellykilbakk.cc^ 
 ||kolinhumercianali.org^
 ||medhurstwaelcci.net^ 
@@ -68,4 +70,5 @@
 ||yen-hansen-cartoon-aims.trycloudflare.com^ 
 ||liabilities.complications-discussing-temporal.trycloudflare.com^
 ||partyglacierhip.top^
+
 
